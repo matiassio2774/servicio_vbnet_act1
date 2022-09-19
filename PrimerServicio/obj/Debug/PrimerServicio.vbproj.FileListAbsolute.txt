@@ -1,0 +1,12 @@
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\bin\Debug\PrimerServicio.exe.config
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\bin\Debug\PrimerServicio.exe
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\bin\Debug\PrimerServicio.pdb
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\bin\Debug\PrimerServicio.xml
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.vbproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.Resources.resources
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.ProjectInstaller.resources
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.vbproj.GenerateResource.cache
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.vbproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.exe
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.xml
+C:\Users\PC1\Desktop\PrimerServicio\PrimerServicio\obj\Debug\PrimerServicio.pdb
